@@ -3,7 +3,7 @@
 <head>
 <title>Proyecto Final</title>
 <meta charset="utf-8">
-<link rel="stylesheet" href="/estilos.css">
+<link rel="stylesheet" href="https://github.com/animandro/Web-Responsive/blob/master/estilos.css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap" rel="stylesheet">
     <meta name="viewport" content="initial-scale=1.0,
 width=device-width">
